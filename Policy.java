@@ -1,5 +1,5 @@
 /***************************************************************************
-This is a Policy Class that will model an insurance policy for one person *
+This is a Policy Class that will model an insurance policy for one person*
 ****************************************************************************/
 
 public class Policy
